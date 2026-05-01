@@ -1,1 +1,1 @@
-@All lambda commands
+@All lambda command
