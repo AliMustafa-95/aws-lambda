@@ -5,5 +5,5 @@
     <option description="low security risk" iconURL="/polarion/icons/default/enums/priority_medium.gif" id="asilb" name="ASIL B" sortOrder="3"/>
     <option description="high security risk" iconURL="/polarion/icons/default/enums/priority_high.gif" id="asilc" name="ASIL C" sortOrder="4"/>
     <option description="highest security risk" iconURL="/polarion/icons/default/enums/priority_highest.gif" id="asild" name="ASIL D" sortOrder="75"/>
-</enumeration> 
+</enumeration>
   
