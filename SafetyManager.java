@@ -16,7 +16,7 @@ public class SafetyManager {
     }
 
     /**
-     * @wi.implements TEST-4 Airbag validation
+     * @wi.implements TEST-5 Airbag validation
      */
     public void checkAirbag() {
         // Airbag validation logic
