@@ -6,7 +6,7 @@ public class SafetyManager {
      */
     public void validateBraking() {
         // Braking validation logic
-    }
+    } 
 
     /**
      * @wi.implements TEST- Vehicle speed monitoring
