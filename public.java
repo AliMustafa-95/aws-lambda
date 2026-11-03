@@ -11,7 +11,7 @@ public class SafetyManager {
     /**
      * @wi.implements TEST- Vehicle speed monitoring
      */
-    public void monitorSpeed() {
+    public void monitorSpeed() { 
         // Vehicle speed monitoring logic
     }
 
