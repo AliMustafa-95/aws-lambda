@@ -14,7 +14,7 @@ public class SafetyManager {
     public void monitorSpeed() {
         // Vehicle speed monitoring logic
     }
-
+ 
     /**
      * @wi.implements TEST-9 Airbag validation
      */
