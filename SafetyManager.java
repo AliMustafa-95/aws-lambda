@@ -5,7 +5,7 @@ public class SafetyManager {
      * @wi.implements TRT-1 Braking validation
      */
     public void validateBraking() {
-        // Braking validation logic
+        // Braking validation logic 2
     }
 
     /**
