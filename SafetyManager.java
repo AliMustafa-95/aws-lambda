@@ -9,7 +9,7 @@ public class SafetyManager {
     }
 
     /**
-     * wi.implements TEST-3 Vehicle speed monitoring
+     * @wi.implements TRT-2 Vehicle speed monitoring
      */ 
     public void monitorSpeed() {
         // Vehicle speed monitoring logic
